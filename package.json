@@ -1,0 +1,6 @@
+{
+  "name": "prettier_bug",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
